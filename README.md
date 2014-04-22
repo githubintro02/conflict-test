@@ -1,2 +1,2 @@
-conflict-test
+conflict-test-1
 =============
